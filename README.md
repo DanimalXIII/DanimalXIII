@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanimalXIII
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding, Films, Games
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
