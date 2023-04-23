@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanimalXIII
-- 👀 I’m interested in Coding, Films, Music and Games
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Coding, Films, Music, Mountain Biking and Games
+- 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
